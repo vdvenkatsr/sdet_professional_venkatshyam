@@ -42,6 +42,7 @@ public class Product
         System.out.println("----ProductID-----" + pid);
         System.out.println("----Price-----" + price);
         System.out.println("----Name-----" + name);
+        System.out.println("----Name-----" + name);
     }
     
     public static void main(String[] args)
