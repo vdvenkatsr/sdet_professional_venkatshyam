@@ -3,7 +3,7 @@ package Assignment_1;
 public class Even_number {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	 	// TODO Auto-generated method stub
 
 		int n = 50;
 		System.out.print("Even Numbers from 1 to "+ n +" are: ");
