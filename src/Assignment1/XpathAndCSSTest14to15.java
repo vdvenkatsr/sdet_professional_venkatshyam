@@ -43,7 +43,7 @@ public class XpathAndCSSTest14to15 {
 		driver.manage().deleteAllCookies();
 		
 		driver.get(prop.getProperty("url"));
-		//driver.get("https://opensource-demo.orangehrmlive.com/");
+		//driver.get("https://opensource-demo.orangehrmlive.com/"  );
 		driver.manage().window().maximize();	
 	}
 	@BeforeClass

@@ -38,7 +38,7 @@ public class LogInTest4 {
 		driver.manage().deleteAllCookies();
 		
 		driver.get(prop.getProperty("url"));
-		//driver.get("https://opensource-demo.orangehrmlive.com/");
+		//driver.get("https://opensource-demo.orangehrmlive.com/");12 
 		driver.manage().window().maximize();	
 	}
 	@Test

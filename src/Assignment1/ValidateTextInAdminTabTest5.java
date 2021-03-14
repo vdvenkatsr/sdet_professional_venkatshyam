@@ -65,7 +65,7 @@ public class ValidateTextInAdminTabTest5 {
 		Reporter.log("Log in Successfull. Dashboard page dislayed", true);
 	}
 
-	// test_5: Click on Admin Link in Home Page and validate following text -
+	// test_5: Click on Admin Link in Home Page and validate following text - 11
 	//• User Management
 	//• Job
 	//• Organization

@@ -58,7 +58,7 @@ public class TestListenerTest11and12 extends TestBase {
 		
 	}
 	
-	// test_7 : Login to application again in @Test method, set priority 1 of the same method After logging
+	// test_7 : Login to application again in @Test method, set priority 1   of the same method After logging
 	@Test(priority=1)
 	public void LogInToApp() throws InterruptedException {
 		try {

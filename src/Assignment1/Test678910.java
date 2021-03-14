@@ -30,7 +30,7 @@ public class Test678910 {
 	public static Properties prop;
 	//
 	//
-	//test_9 :  Write a method (avoid using Test annotation) to minimize the window.
+	//test_9 :  Write a method (avoid using Test annotation) to minimi ze t he window.
 	public void MinimizeBrowser() {
 		Point p = driver.manage().window().getPosition();
 		Dimension d = driver.manage().window().getSize();
