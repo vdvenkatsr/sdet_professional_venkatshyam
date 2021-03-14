@@ -64,6 +64,7 @@ public class LogInTest4 {
 		Reporter.log("Log in Successfull. Dashboard page dislayed", true);
 	}
 	
+	// we can do it
 	@AfterClass
 	public void tearDown() {
 		driver.quit();

@@ -86,6 +86,7 @@ public class ValidateTextInAdminTabTest5 {
 		Reporter.log("Qualification Text Displayed on Admin Page", true);
 	}
 	
+	//preacitice
 	
 	@AfterTest
 	public void tearDown() {
